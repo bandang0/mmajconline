@@ -25,9 +25,13 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **February 3, 2022, 14h (Online)**
+#### **February 10, 2022, 14h (Salle de l'Entresol & Online)**
 
-* Paper: [Jiang et al. 2021](https://arxiv.org/abs/2201.11633), presented by Irina Dvorkin.
+* Presentation by Mike Moss (George Washington University - IAP), entitled _Instrumental Tip-of-The-Iceberg Effects on the Prompt Emission of Swift/BAT GRBs_.
+
+#### **February 17, 2022, 14h (Salle de l'Entresol & Online)**
+
+* Paper presentation by Robert Mochkovitch TBA
 
 ## Speakers
 
@@ -75,6 +79,10 @@ Some of the speakers of our sessions include:
 
 
 ## Past sessions
+
+#### **February 3, 2022, 14h (Online)**
+
+* Paper: [Jiang et al. 2021](https://arxiv.org/abs/2201.11633), presented by Irina Dvorkin.
 
 #### **January 20, 2022, 14h (Online)**
 
