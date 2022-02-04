@@ -86,7 +86,7 @@ Some of the speakers of our sessions include:
 
 #### **January 20, 2022, 14h (Online)**
 
-* Presentation by Filip Samuelsson (KTH Royal Institute of Technology, Sweden), entitled _Radiation mediated shocks in gamma-ray bursts_.
+* Presentation by Filip Samuelsson (KTH Royal Institute of Technology, Sweden), entitled [_Radiation mediated shocks in gamma-ray bursts_](docs/220120-samuelsson.pdf).
 
 #### **December 14, 2021, 14h (Salle de l'Entresol & Online)**
 
