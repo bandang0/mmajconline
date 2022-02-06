@@ -82,7 +82,7 @@ Some of the speakers of our sessions include:
 
 #### **February 3, 2022, 14h (Online)**
 
-* Paper: [Jiang et al. 2021](https://arxiv.org/abs/2201.11633), presented by Irina Dvorkin.
+* Paper: [Jiang et al. 2021](https://arxiv.org/abs/2201.11633), presented by Irina Dvorkin. See [her slides](docs/220204-dvorkin.pdf). 
 
 #### **January 20, 2022, 14h (Online)**
 
