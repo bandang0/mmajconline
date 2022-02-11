@@ -38,6 +38,10 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 * Paper TBA, presented by Frédéric Daigne.
 
+#### **March 31, 2022, 14h (Online)**
+
+* Presentation by Nikhil Sarin (Nordita Institute, Stockholm University, Sweden), TBA.
+
 ## Speakers
 
 Some of the speakers of our sessions include:
