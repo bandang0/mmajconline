@@ -25,14 +25,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-
-#### **February 17, 2022, 14h (Salle de l'Entresol & Online)**
-
-* Paper [Boersma & van Leeuwen 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220202181B/abstract), presented by Robert Mochkovitch.
-
 #### **February 24, 2022, 14h (Online)**
 
-* Presentation by Taya Govreen-Segal (Tel Aviv University, Israel), TBA.
+* Presentation by Taya Govreen-Segal (Tel Aviv University, Israel), entitled _Spherical Shocks in a Steep Density Gradient of Expanding Media_.
 
 #### **March 10, 2022, 14h (Salle de l'Entresol & Online)**
 
@@ -89,6 +84,10 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
+
+#### **February 17, 2022, 14h (Salle de l'Entresol & Online)**
+
+* Paper [Boersma & van Leeuwen 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220202181B/abstract), presented by Robert Mochkovitch.
 
 #### **February 10, 2022, 14h (Salle de l'Entresol & Online)**
 
