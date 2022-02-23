@@ -37,6 +37,10 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 * Presentation by Nikhil Sarin (Nordita Institute, Stockholm University, Sweden), TBA.
 
+#### **April 14, 2022, 14h (Online)**
+
+* Presentation by Simone Bavera (Université de Genève), TBA.
+
 ## Speakers
 
 Some of the speakers of our sessions include:
