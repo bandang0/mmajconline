@@ -25,10 +25,6 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **February 24, 2022, 14h (Online)**
-
-* Presentation by Taya Govreen-Segal (Tel Aviv University, Israel), entitled _Spherical Shocks in a Steep Density Gradient of Expanding Media_.
-
 #### **March 10, 2022, 14h (Salle de l'Entresol & Online)**
 
 * Paper TBA, presented by Frédéric Daigne.
@@ -64,6 +60,7 @@ Some of the speakers of our sessions include:
 * Noémie Globus (NY University, CCA)
 * Ben Gompertz (Birmingham University)
 * Ore Gottlieb (Tel Aviv University)
+* Taya Govreen-Segal (Tel Aviv University)
 * Sébastien Guillot (IRAP)
 * Kumiko Kotera (IAP)
 * Jens-Kristian Krogager (IAP)
@@ -88,6 +85,10 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
+
+#### **February 24, 2022, 14h (Online)**
+
+* Presentation by Taya Govreen-Segal (Tel Aviv University, Israel), entitled [_Spherical Shocks in a Steep Density Gradient of Expanding Media_](docs/220224-govreen-segal.pdf).
 
 #### **February 17, 2022, 14h (Salle de l'Entresol & Online)**
 
