@@ -92,7 +92,7 @@ Some of the speakers of our sessions include:
 
 #### **February 17, 2022, 14h (Salle de l'Entresol & Online)**
 
-* Paper [Boersma & van Leeuwen 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220202181B/abstract), presented by Robert Mochkovitch.
+* Paper [Boersma & van Leeuwen 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220202181B/abstract), presented by Robert Mochkovitch. See [his slides](docs/220217-mochkovitch.pdf).
 
 #### **February 10, 2022, 14h (Salle de l'Entresol & Online)**
 
