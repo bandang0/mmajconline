@@ -27,7 +27,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **March 3, 2022, 14h (Online)**
 
-* Presentation by Arno Vanthiegem (Princeton University), entitled _Origin of intense electron heating in relativistic blast waves_.
+* Presentation by Arno Vanthieghem (Princeton University), entitled _Origin of intense electron heating in relativistic blast waves_.
 
 #### **March 10, 2022, 14h (Salle de l'Entresol & Online)**
 
