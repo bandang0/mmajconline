@@ -25,9 +25,6 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **March 3, 2022, 14h (Online)**
-
-* Presentation by Arno Vanthieghem (Princeton University), entitled _Origin of intense electron heating in relativistic blast waves_.
 
 #### **March 10, 2022, 14h (Salle de l'Entresol & Online)**
 
@@ -83,12 +80,17 @@ Some of the speakers of our sessions include:
 * Om Sharan Salafia (INAF-Brera)
 * Filip Samuelsson (KTH Royal Institute of Technology, Sweden)
 * Filippo Santoliquido (Padova University)
+* Arno Vanthieghem (Princeton University)
 * Marta Volonteri (IAP)
 
 
 
 ## Past sessions
 
+
+#### **March 3, 2022, 14h (Online)**
+
+* Presentation by Arno Vanthieghem (Princeton University), entitled [_Origin of intense electron heating in relativistic blast waves_](docs/220303-vanthieghem.pdf).
 
 #### **February 24, 2022, 14h (Online)**
 
