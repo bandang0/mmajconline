@@ -28,7 +28,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **March 10, 2022, 14h (Salle de l'Entresol & Online)**
 
-* Papers [Toffano et al. 2020](https://ui.adsabs.harvard.edu/abs/2021A%26A...652A.123T/abstract) and [Ghisellini et al. 2021](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..82G/abstract), presented by Frédéric Daigne.
+* Papers [Toffano et al. 2021](https://ui.adsabs.harvard.edu/abs/2021A%26A...652A.123T/abstract) and [Ghisellini et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..82G/abstract), presented by Frédéric Daigne.
 
 #### **March 31, 2022, 14h (Online)**
 
