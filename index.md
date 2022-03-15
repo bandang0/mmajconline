@@ -25,10 +25,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
+#### **March 22, 2022, 14h (Online, joint with GRECO)**
 
-#### **March 10, 2022, 14h (Salle de l'Entresol & Online)**
-
-* Papers [Toffano et al. 2021](https://ui.adsabs.harvard.edu/abs/2021A%26A...652A.123T/abstract) and [Ghisellini et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..82G/abstract), presented by Frédéric Daigne.
+* Presentation by Simone Mastrogiovanni (APC), TBA.
 
 #### **March 31, 2022, 14h (Online)**
 
@@ -37,6 +36,14 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 #### **April 14, 2022, 14h (Online)**
 
 * Presentation by Simone Bavera (Université de Genève), TBA.
+
+#### **April 21, 2022, 14h (Online)**
+
+* Presentation by Stefan Heimersheim (Cambridge University, UK), TBA.
+
+#### **May 5, 2022, 14h (Online)**
+
+* Presentation by Karlijn Kruiswijk (Université Catholique de Louvain, Belgium), TBA.
 
 ## Speakers
 
@@ -87,6 +94,10 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
+
+#### **March 10, 2022, 14h (Salle de l'Entresol & Online)**
+
+* Papers [Toffano et al. 2021](https://ui.adsabs.harvard.edu/abs/2021A%26A...652A.123T/abstract) and [Ghisellini et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..82G/abstract), presented by Frédéric Daigne.
 
 #### **March 3, 2022, 14h (Online)**
 
