@@ -25,9 +25,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **March 22, 2022, 14h (Online, joint with GRECO)**
+#### **March 22, 2022, 10h (Online, joint with GRECO)**
 
-* Presentation by Simone Mastrogiovanni (APC), TBA.
+* Presentation by Simone Mastrogiovanni (OCA, Nice), entitled _Studying the Universe with gravitational-waves sources_.
 
 #### **March 31, 2022, 14h (Online)**
 
@@ -43,7 +43,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **May 5, 2022, 14h (Online)**
 
-* Presentation by Karlijn Kruiswijk (Université Catholique de Louvain, Belgium), TBA.
+* Paper [Murase et al. 2013](https://ui.adsabs.harvard.edu/abs/2013PhRvL.111m1102M/abstract), presented by Karlijn Kruiswijk (Université Catholique de Louvain, Belgium).
 
 ## Speakers
 
