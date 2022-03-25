@@ -25,13 +25,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **March 22, 2022, 10h (Online, joint with GRECO)**
-
-* Presentation by Simone Mastrogiovanni (OCA, Nice), entitled _Studying the Universe with gravitational-waves sources_.
-
 #### **March 31, 2022, 14h (Online)**
 
-* Presentation by Nikhil Sarin (Nordita Institute, Stockholm University, Sweden), TBA.
+* Presentation by Nikhil Sarin (Nordita Institute, Stockholm University, Sweden), entitled _Multi-messenger signatures of binary neutron star mergers_.
 
 #### **April 14, 2022, 14h (Online)**
 
@@ -77,6 +73,7 @@ Some of the speakers of our sessions include:
 * Léonard Lehoucq (ENS/IAP)
 * Martin Lemoine (IAP)
 * Jim Madsen (University of Wisconsin)
+* Simone Mastrogiovanni (OCA, Nice)
 * Sandro Mereghetti (IASF-Milano)
 * Robert Mochkovitch (IAP)
 * Mike Moss (George Washington University)
@@ -94,6 +91,9 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
+#### **March 22, 2022, 10h (Online, joint with GRECO)**
+
+* Presentation by Simone Mastrogiovanni (OCA, Nice), entitled _Studying the Universe with gravitational-waves sources_.
 
 #### **March 10, 2022, 14h (Salle de l'Entresol & Online)**
 
