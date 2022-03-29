@@ -31,7 +31,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **April 14, 2022, 14h (Online)**
 
-* Presentation by Simone Bavera (Université de Genève), TBA.
+* Presentation by Simone Bavera (Université de Genève), entitled _POSYDON: A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations_.
 
 #### **April 21, 2022, 14h (Online)**
 
