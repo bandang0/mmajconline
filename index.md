@@ -25,9 +25,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **March 31, 2022, 14h (Online)**
+#### **April 7, 2022, 14h (Salle de l'Entresol & Online)**
 
-* Presentation by Nikhil Sarin (Nordita Institute, Stockholm University, Sweden), entitled _Multi-messenger signatures of binary neutron star mergers_.
+* Paper TBA, presented by Jean-Grégoire Ducoin.
 
 #### **April 14, 2022, 14h (Online)**
 
@@ -84,12 +84,17 @@ Some of the speakers of our sessions include:
 * Om Sharan Salafia (INAF-Brera)
 * Filip Samuelsson (KTH Royal Institute of Technology, Sweden)
 * Filippo Santoliquido (Padova University)
+* Nikhil Sarin (Nordita Institute, Stockholm University, Sweden)
 * Arno Vanthieghem (Princeton University)
 * Marta Volonteri (IAP)
 
 
 
 ## Past sessions
+
+#### **March 31, 2022, 14h (Online)**
+
+* Presentation by Nikhil Sarin (Nordita Institute, Stockholm University, Sweden), entitled _Multi-messenger signatures of binary neutron star mergers_.
 
 #### **March 22, 2022, 10h (Online, joint with GRECO)**
 
