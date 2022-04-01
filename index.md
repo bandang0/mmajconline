@@ -27,7 +27,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 #### **April 7, 2022, 14h (Salle de l'Entresol & Online)**
 
-* Paper TBA, presented by Jean-Grégoire Ducoin.
+* Paper [Veronesi et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220305907V/abstract), presented by Jean-Grégoire Ducoin.
 
 #### **April 14, 2022, 14h (Online)**
 
@@ -94,7 +94,7 @@ Some of the speakers of our sessions include:
 
 #### **March 31, 2022, 14h (Online)**
 
-* Presentation by Nikhil Sarin (Nordita Institute, Stockholm University, Sweden), entitled _Multi-messenger signatures of binary neutron star mergers_.
+* Presentation by Nikhil Sarin (Nordita Institute, Stockholm University, Sweden), entitled [_Multi-messenger signatures of binary neutron star mergers_](docs/220331-sarin.pdf).
 
 #### **March 22, 2022, 10h (Online, joint with GRECO)**
 
