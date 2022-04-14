@@ -25,9 +25,6 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **April 7, 2022, 14h (Salle de l'Entresol & Online)**
-
-* Paper [Veronesi et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220305907V/abstract), presented by Jean-Grégoire Ducoin.
 
 #### **April 14, 2022, 14h (Online)**
 
@@ -56,6 +53,7 @@ Some of the speakers of our sessions include:
 * Valentin Decoene (IAP, Penn State University)
 * Michel Dennefeld (IAP)
 * Luc Dessart (IAP)
+* Jean-Grégoire Ducoin (IAP)
 * Gwenhaël de Wasseige (APC)
 * Jean-Grégoire Ducoin (IAP)
 * Raphaël Duque (IAP)
@@ -91,6 +89,10 @@ Some of the speakers of our sessions include:
 
 
 ## Past sessions
+
+#### **April 7, 2022, 14h (Salle de l'Entresol & Online)**
+
+* Paper [Veronesi et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220305907V/abstract), presented by Jean-Grégoire Ducoin. See [his slides](docs/220407-ducoin.pdf)
 
 #### **March 31, 2022, 14h (Online)**
 
