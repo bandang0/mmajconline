@@ -26,13 +26,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 ## Upcoming Journal Club sessions
 
 
-#### **April 14, 2022, 14h (Online)**
-
-* Presentation by Simone Bavera (Université de Genève), entitled _POSYDON: A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations_.
-
 #### **April 21, 2022, 14h (Online)**
 
-* Presentation by Stefan Heimersheim (Cambridge University, UK), TBA.
+* Presentation by Stefan Heimersheim (Cambridge University, UK), entitled _Fast Radio Bursts as probes of cosmic Reionization_.
 
 #### **May 5, 2022, 14h (Online)**
 
@@ -43,6 +39,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 Some of the speakers of our sessions include:
 
 * Benjamin Arcier (IRAP)
+* Simone Bavera (Université de Genève)
 * Željka Bošnjak (University of Zagreb)
 * Matteo Bugli (CEA)
 * Éric Chassande-Mottin (APC)
@@ -89,6 +86,10 @@ Some of the speakers of our sessions include:
 
 
 ## Past sessions
+
+#### **April 14, 2022, 14h (Online)**
+
+* Presentation by Simone Bavera (Université de Genève), entitled [_POSYDON: A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations_](docs/220414-bavera.pdf).
 
 #### **April 7, 2022, 14h (Salle de l'Entresol & Online)**
 
