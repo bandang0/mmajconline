@@ -34,6 +34,10 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 * Paper [Murase et al. 2013](https://ui.adsabs.harvard.edu/abs/2013PhRvL.111m1102M/abstract), presented by Karlijn Kruiswijk (Université Catholique de Louvain, Belgium).
 
+#### **June 6, 2022, 14h (Online)**
+
+* Presentation by Federico de Lillo (UC Louvain, Belgium), TBA.
+
 ## Speakers
 
 Some of the speakers of our sessions include:
@@ -87,11 +91,11 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
-#### **April 14, 2022, 14h (Online)**
+#### **April 14, 2022, 14h (Salle du Conseil & Online)**
 
 * Presentation by Simone Bavera (Université de Genève), entitled [_POSYDON: A General-Purpose Population Synthesis Code with Detailed Binary-Evolution Simulations_](docs/220414-bavera.pdf).
 
-#### **April 7, 2022, 14h (Salle de l'Entresol & Online)**
+#### **April 7, 2022, 14h (Salle des Séminaires & Online)**
 
 * Paper [Veronesi et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220305907V/abstract), presented by Jean-Grégoire Ducoin. See [his slides](docs/220407-ducoin.pdf)
 
