@@ -98,7 +98,7 @@ Some of the speakers of our sessions include:
 
 #### **April 7, 2022, 14h (Salle des Séminaires & Online)**
 
-* Paper [Veronesi et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220305907V/abstract), presented by Jean-Grégoire Ducoin. See [his slides](docs/220407-ducoin.pdf)
+* Paper [Veronesi et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220305907V/abstract), presented by Jean-Grégoire Ducoin. See [his slides](docs/220407-ducoin.pdf).
 
 #### **March 31, 2022, 14h (Online)**
 
