@@ -26,10 +26,6 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 ## Upcoming Journal Club sessions
 
 
-#### **April 21, 2022, 14h (Online)**
-
-* Presentation by Stefan Heimersheim (Cambridge University, UK), entitled _Fast Radio Bursts as probes of cosmic Reionization_.
-
 #### **May 5, 2022, 14h (Online)**
 
 * Paper [Murase et al. 2013](https://ui.adsabs.harvard.edu/abs/2013PhRvL.111m1102M/abstract), presented by Karlijn Kruiswijk (Université Catholique de Louvain, Belgium).
@@ -65,6 +61,7 @@ Some of the speakers of our sessions include:
 * Ore Gottlieb (Tel Aviv University)
 * Taya Govreen-Segal (Tel Aviv University)
 * Sébastien Guillot (IRAP)
+* Stefan Heimersheim (Cambridge University, UK)
 * Kumiko Kotera (IAP)
 * Jens-Kristian Krogager (IAP)
 * Jean-Pierre Lasota (IAP)
@@ -90,6 +87,10 @@ Some of the speakers of our sessions include:
 
 
 ## Past sessions
+
+#### **April 21, 2022, 14h (Online & Salle du Conseil)**
+
+* Presentation by Stefan Heimersheim (Cambridge University, UK), entitled _Fast Radio Bursts as probes of cosmic Reionization_.
 
 #### **April 14, 2022, 14h (Salle du Conseil & Online)**
 
