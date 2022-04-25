@@ -90,7 +90,7 @@ Some of the speakers of our sessions include:
 
 #### **April 21, 2022, 14h (Online & Salle du Conseil)**
 
-* Presentation by Stefan Heimersheim (Cambridge University, UK), entitled _Fast Radio Bursts as probes of cosmic Reionization_.
+* Presentation by Stefan Heimersheim (Cambridge University, UK), entitled [_Fast Radio Bursts as probes of cosmic Reionization_](docs/220421-heimersheim.pdf).
 
 #### **April 14, 2022, 14h (Salle du Conseil & Online)**
 
