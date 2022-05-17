@@ -88,11 +88,11 @@ Some of the speakers of our sessions include:
 #### **May 12, 2022, 14h (Online)**
 
 * Disucussion on GRB 211211A led by Clément Pellouin, based on the following articles. see [his slides](docs/220512-pellouin.pdf).
-- [Rastinejad et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220410864R/abstract)
-- [Gompertz et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220505008G/abstract)
-- [Gao et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220505031G/abstract)
-- [Yang et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220412771Y/abstract)
-- [Xiao et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220502186X/abstract)
+  - [Rastinejad et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220410864R/abstract)
+  - [Gompertz et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220505008G/abstract)
+  - [Gao et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220505031G/abstract)
+  - [Yang et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220412771Y/abstract)
+  - [Xiao et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220502186X/abstract)
 
 #### **May 5, 2022, 14h (Online)**
 
