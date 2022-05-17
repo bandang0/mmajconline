@@ -26,10 +26,6 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 ## Upcoming Journal Club sessions
 
 
-#### **May 5, 2022, 14h (Online)**
-
-* Paper [Murase et al. 2013](https://ui.adsabs.harvard.edu/abs/2013PhRvL.111m1102M/abstract), presented by Karlijn Kruiswijk (Université Catholique de Louvain, Belgium).
-
 #### **June 6, 2022, 14h (Online)**
 
 * Presentation by Federico de Lillo (UC Louvain, Belgium), TBA.
@@ -64,6 +60,7 @@ Some of the speakers of our sessions include:
 * Stefan Heimersheim (Cambridge University, UK)
 * Kumiko Kotera (IAP)
 * Jens-Kristian Krogager (IAP)
+* Karlijn Kruiswijk (Université Catholique de Louvain, Belgium)
 * Jean-Pierre Lasota (IAP)
 * François Larrouturou (IAP)
 * Léonard Lehoucq (ENS/IAP)
@@ -87,6 +84,15 @@ Some of the speakers of our sessions include:
 
 
 ## Past sessions
+
+#### **May 12, 2022, 14h (Online)**
+
+* Disucussion on GRB 211211A led by Clément Pellouin, based on the following articles. see [his slides](docs/220512-pellouin.pdf).
+
+
+#### **May 5, 2022, 14h (Online)**
+
+* Paper [Murase et al. 2013](https://ui.adsabs.harvard.edu/abs/2013PhRvL.111m1102M/abstract), presented by Karlijn Kruiswijk (Université Catholique de Louvain, Belgium). See [her slides](docs/220505-kruiswijk.pdf).
 
 #### **April 21, 2022, 14h (Online & Salle du Conseil)**
 
