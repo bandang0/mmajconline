@@ -85,7 +85,11 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
-#### **May 12, 2022, 14h (Online)**
+#### **June 2, 2022, 14h (Salle de l'Entresol & Online)**
+
+* Paper [Finkel et al. 2022](https://ui.adsabs.harvard.edu/abs/2022PhRvD.105f3022F/abstract), presented by Irina Dvorkin. See [her slides](docs/220602-dvorkin.pdf).
+
+#### **May 12, 2022, 14h (Salle du Conseil & Online)**
 
 * Disucussion on GRB 211211A led by Clément Pellouin, based on the following articles. see [his slides](docs/220512-pellouin.pdf).
   - [Rastinejad et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220410864R/abstract)
