@@ -25,8 +25,11 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
+#### **June 6, 2022, 14h (Salle du Conseil & Online)**
 
-#### **June 6, 2022, 14h (Online)**
+* Presentation by Filippo Santoliquido (Padova University), entitled _Modelling the host galaxies of binary compact object mergers with observational scaling relations_.
+
+#### **June 13, 2022, 14h (Online)**
 
 * Presentation by Federico de Lillo (UC Louvain, Belgium), TBA.
 
