@@ -25,13 +25,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **June 6, 2022, 14h (Salle du Conseil & Online)**
+#### **June 23, 2022, 14h (Salle de l'Entresol & Online)**
 
-* Presentation by Filippo Santoliquido (Padova University), entitled _Modelling the host galaxies of binary compact object mergers with observational scaling relations_.
-
-#### **June 13, 2022, 14h (Online)**
-
-* Presentation by Federico de Lillo (UC Louvain, Belgium), TBA.
+* Presentation by Michele Vallisneri (Caltech), on PTA.
 
 ## Speakers
 
@@ -50,6 +46,7 @@ Some of the speakers of our sessions include:
 * Michel Dennefeld (IAP)
 * Luc Dessart (IAP)
 * Jean-Grégoire Ducoin (IAP)
+* Federico de Lillo (UC Louvain, Belgium)
 * Gwenhaël de Wasseige (APC)
 * Jean-Grégoire Ducoin (IAP)
 * Raphaël Duque (IAP)
@@ -87,6 +84,14 @@ Some of the speakers of our sessions include:
 
 
 ## Past sessions
+
+#### **June 16, 2022, 14h (Salle de l'Entresol & Online)**
+
+* Presentation by Federico de Lillo (UC Louvain, Belgium), entitled [_Stochastic gravitational-wave background searches and constraints on neutron-star ellipticity_](docs/220616-de-lillo.pdf).
+
+#### **June 9, 2022, 14h (Salle du Conseil & Online)**
+
+* Presentation by Filippo Santoliquido (Padova University), entitled [_Modelling the host galaxies of binary compact object mergers with observational scaling relations_](docs/220609-santoliquido.pdf).
 
 #### **June 2, 2022, 14h (Salle de l'Entresol & Online)**
 
