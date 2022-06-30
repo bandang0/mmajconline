@@ -25,9 +25,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **June 23, 2022, 14h (Salle de l'Entresol & Online)**
 
-* Presentation by Michele Vallisneri (Caltech), on PTA.
 
 ## Speakers
 
@@ -78,12 +76,17 @@ Some of the speakers of our sessions include:
 * Filip Samuelsson (KTH Royal Institute of Technology, Sweden)
 * Filippo Santoliquido (Padova University)
 * Nikhil Sarin (Nordita Institute, Stockholm University, Sweden)
+* Michele Vallisneri (Jet Propulsion Laboratory)
 * Arno Vanthieghem (Princeton University)
 * Marta Volonteri (IAP)
 
 
 
 ## Past sessions
+
+#### **June 23, 2022, 14h (Salle de l'Entresol & Online)**
+
+* Presentation by Michele Vallisneri (Jet Propulsion Laboratory), entitled _The Logic of Detection: Statistics and Systematics in the Search for Gravitational Waves with Pulsar-Timing Arrays_.
 
 #### **June 16, 2022, 14h (Salle de l'Entresol & Online)**
 
