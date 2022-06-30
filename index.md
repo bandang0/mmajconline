@@ -25,7 +25,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-
+#### The High Energy Journal Club is on hold for summer break.
 
 ## Speakers
 
