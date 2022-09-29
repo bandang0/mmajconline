@@ -13,7 +13,10 @@ Addresses are:
 
 ## Staying up to date
 
-To receive information and announcements for future sessions, please [subscribe to our mailing list](https://listserv.in2p3.fr/cgi-bin/wa?SUBED1=MM-MEETINGS-IDF-L&A=1).
+To receive information and announcements for future sessions, please subscribe to our mailing list, with the following procedure: 
+* Send an email to JChe-request@iap.fr with an empty "Subject" with in the body of the message: subscribe
+* Then, wait for the request to confirm your request that will send the list server (a few seconds are enough).
+* Once you have received the automatic response from the list server, just make a Reply. You will then receive a welcome message.
 
 ## Organizing team
 
@@ -25,7 +28,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### The High Energy Journal Club is on hold for summer break.
+#### **October 4, 2022, 11h (Salle du Conseil & Online)**
+
+* Presentation by Ricarda Beckmann (University of Cambridge), entitled _The long-term spin evolution of massive black holes from the NewHorizon simulation_.
 
 ## Speakers
 
@@ -83,6 +88,11 @@ Some of the speakers of our sessions include:
 
 
 ## Past sessions
+
+
+#### **September 27, 2022, 11h (Salle du Conseil & Online)**
+
+* Paper [Gottlieb et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220909256G/abstract), presented by Frédéric Daigne.
 
 #### **June 23, 2022, 14h (Salle de l'Entresol & Online)**
 
