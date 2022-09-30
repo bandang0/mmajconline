@@ -92,7 +92,7 @@ Some of the speakers of our sessions include:
 
 #### **September 27, 2022, 11h (Salle du Conseil & Online)**
 
-* Paper [Gottlieb et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220909256G/abstract), presented by Frédéric Daigne.
+* Paper [Gottlieb et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220909256G/abstract), presented by Frédéric Daigne. See [his slides](docs/220927-daigne.pdf).
 
 #### **June 23, 2022, 14h (Salle de l'Entresol & Online)**
 
