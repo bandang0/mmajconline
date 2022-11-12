@@ -28,9 +28,9 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **October 4, 2022, 11h (Salle du Conseil & Online)**
+#### **November 15, 2022, 11h (Room 281 & Online)**
 
-* Presentation by Ricarda Beckmann (University of Cambridge), entitled _The long-term spin evolution of massive black holes from the NewHorizon simulation_.
+* Presentation by Léonard Lehoucq (IAP).
 
 ## Speakers
 
@@ -38,6 +38,7 @@ Some of the speakers of our sessions include:
 
 * Benjamin Arcier (IRAP)
 * Simone Bavera (Université de Genève)
+* Ricarda Beckmann (University of Cambridge)
 * Željka Bošnjak (University of Zagreb)
 * Matteo Bugli (CEA)
 * Éric Chassande-Mottin (APC)
@@ -48,7 +49,6 @@ Some of the speakers of our sessions include:
 * Valentin Decoene (IAP, Penn State University)
 * Michel Dennefeld (IAP)
 * Luc Dessart (IAP)
-* Jean-Grégoire Ducoin (IAP)
 * Federico de Lillo (UC Louvain, Belgium)
 * Gwenhaël de Wasseige (APC)
 * Jean-Grégoire Ducoin (IAP)
@@ -73,6 +73,7 @@ Some of the speakers of our sessions include:
 * Sandro Mereghetti (IASF-Milano)
 * Robert Mochkovitch (IAP)
 * Mike Moss (George Washington University)
+* Lara Nava (INAF - Brera)
 * Aleksandra Olejak (Nicolaus Copernicus Astronomical Center)
 * Clément Pellouin (IAP)
 * Julien Peloton (LAL)
@@ -89,6 +90,21 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
+#### **November 8, 2022, 11h (Room 281 & Online)**
+
+* Presentation by Lara Nava (INAF - Brera), entitled [_Very high energy emission in Gamma-ray bursts_](docs/221108-nava.pdf).
+
+#### **October 18, 2022, 11h (Room 281 & Online)**
+
+* Discussion led by Kumiko Kotera (IAP): status of the GRAND project and the future of multi-messenger astronomy with cosmic rays, based on [Guépin et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220712205G/abstract).
+
+#### **October 11, 2022, 11h (Room 281 & Online)**
+
+* Presentation by Luc Dessart (IAP), entitled [_Interacting Supernovae_](docs/221011-dessart.pdf), based on the paper [Dessart & Hillier 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...660L...9D/abstract).
+
+#### **October 4, 2022, 11h (Salle du Conseil & Online)**
+
+* Presentation by Ricarda Beckmann (University of Cambridge), entitled _The long-term spin evolution of massive black holes from the NewHorizon simulation_.
 
 #### **September 27, 2022, 11h (Salle du Conseil & Online)**
 
