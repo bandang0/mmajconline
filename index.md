@@ -93,7 +93,7 @@ Some of the speakers of our sessions include:
 
 #### **November 15, 2022, 11h (Room 281 & Online)**
 
-* Presentation by Léonard Lehoucq (IAP), entitled [_Stochastic GW background from merging binaries_](docs/221114-lehoucq.pdf)
+* Presentation by Léonard Lehoucq (IAP), entitled [_Stochastic GW background from merging binaries_](docs/221114-lehoucq.pdf).
 
 #### **November 8, 2022, 11h (Room 281 & Online)**
 
