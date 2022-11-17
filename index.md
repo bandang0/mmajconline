@@ -28,9 +28,10 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **November 15, 2022, 11h (Room 281 & Online)**
+#### **November 22, 2022, 11h (Room 281 & Online)**
 
-* Presentation by Léonard Lehoucq (IAP).
+* Papers [Fong et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220601763F/abstract) and [Nugent et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220601764N/abstract), presented by Jean-Grégoire Ducoin.
+
 
 ## Speakers
 
@@ -89,6 +90,10 @@ Some of the speakers of our sessions include:
 
 
 ## Past sessions
+
+#### **November 15, 2022, 11h (Room 281 & Online)**
+
+* Presentation by Léonard Lehoucq (IAP), entitled [_Stochastic GW background from merging binaries_](docs/221114-lehoucq.pdf)
 
 #### **November 8, 2022, 11h (Room 281 & Online)**
 
