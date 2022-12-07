@@ -28,9 +28,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **November 22, 2022, 11h (Room 281 & Online)**
 
-* Papers [Fong et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220601763F/abstract) and [Nugent et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220601764N/abstract), presented by Jean-Grégoire Ducoin.
 
 
 ## Speakers
@@ -79,6 +77,7 @@ Some of the speakers of our sessions include:
 * Clément Pellouin (IAP)
 * Julien Peloton (LAL)
 * Cyril Pitrou (IAP)
+* Frank Rieger (MPIK - Heidelberg University)
 * Om Sharan Salafia (INAF-Brera)
 * Filip Samuelsson (KTH Royal Institute of Technology, Sweden)
 * Filippo Santoliquido (Padova University)
@@ -90,6 +89,18 @@ Some of the speakers of our sessions include:
 
 
 ## Past sessions
+
+#### **December 6, 2022, 11h (Room 281 & Online)**
+
+* Presentation by Frank Rieger (MPIK - Heidelberg University), entitled [_Supermassive Black Holes as Cosmic Particle Accelerator_](docs/221206-rieger.pdf).
+
+#### **November 29, 2022, 11h (Room 281 & Online)**
+
+* Presentation by Simon Chiche (IAP), entitled [_Modelling the radio emission from very inclined air-showers: a new paradigm and new signatures_](docs/221129-chiche.pdf).
+
+#### **November 22, 2022, 11h (Room 281 & Online)**
+
+* Papers [Fong et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220601763F/abstract) and [Nugent et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220601764N/abstract), presented by Jean-Grégoire Ducoin.
 
 #### **November 15, 2022, 11h (Room 281 & Online)**
 
