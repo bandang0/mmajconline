@@ -35,6 +35,7 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 Some of the speakers of our sessions include:
 
+* Filip Alamaa (Samuelsson) (IAP, KTH Royal Institute of Technology)
 * Benjamin Arcier (IRAP)
 * Simone Bavera (Université de Genève)
 * Ricarda Beckmann (University of Cambridge)
@@ -44,12 +45,14 @@ Some of the speakers of our sessions include:
 * Srija Chakraborty (Scuole Normale Superiore)
 * Siyuan Chen (LPC2E, Orléans)
 * Simon Chiche (IAP)
+* Pierre Cristofari (LUTH)
 * Frédéric Daigne (IAP)
 * Valentin Decoene (IAP, Penn State University)
 * Michel Dennefeld (IAP)
 * Luc Dessart (IAP)
 * Federico de Lillo (UC Louvain, Belgium)
 * Gwenhaël de Wasseige (APC)
+* Chi An Dong Paez (IAP)
 * Jean-Grégoire Ducoin (IAP)
 * Raphaël Duque (IAP)
 * Irina Dvorkin (IAP)
@@ -59,6 +62,7 @@ Some of the speakers of our sessions include:
 * Ore Gottlieb (Tel Aviv University)
 * Taya Govreen-Segal (Tel Aviv University)
 * Daniel Groselj (Columbia University)
+* Marion Guelfand (IAP)
 * Sébastien Guillot (IRAP)
 * Stefan Heimersheim (Cambridge University, UK)
 * Kumiko Kotera (IAP)
@@ -80,7 +84,6 @@ Some of the speakers of our sessions include:
 * Cyril Pitrou (IAP)
 * Frank Rieger (MPIK - Heidelberg University)
 * Om Sharan Salafia (INAF-Brera)
-* Filip Samuelsson (KTH Royal Institute of Technology, Sweden)
 * Filippo Santoliquido (Padova University)
 * Nikhil Sarin (Nordita Institute, Stockholm University, Sweden)
 * Michele Vallisneri (Jet Propulsion Laboratory)
@@ -90,6 +93,30 @@ Some of the speakers of our sessions include:
 
 
 ## Past sessions
+
+#### **March 21, 2023, 14h (Room 281 & Online)**
+
+* Presentation by Yarno Merckx (Vrije Universiteit Brussel), entitled _From cosmic crashes to IceCube neutrinos_.
+
+#### **March 14, 2023, 14h (Salle du Conseil & Online)**
+
+* Presentation by Chi An Dong Paez (IAP), entitled _Massive black hole mergers in the Obelisk simulation: properties and electromagnetic counterparts for LISA_.
+
+#### **February 28, 2023, 14h (Salle du Conseil & Online)**
+
+* Presentation by Pierre Cristofari (LUTH), entitled _Particle acceleration up to the PeV range, and the origin of cosmic rays_.
+
+#### **February 21, 2023, 14h (Room 281 & Online)**
+
+* Presentation by Marion Guelfand (IAP), entitled _Modeling air-showers for the radio-detection of ultra-high energy particles_.
+
+#### **February 14, 2023, 14h (Room 281 & Online)**
+
+* Papers [Donggeun et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv221207095T/abstract) and [Ronchini et al. 2021](https://www.nature.com/articles/s41467-021-24246-x), presented by Robert Mochkovitch.
+
+#### **February 7, 2023, 14h (Room 281 & Online)**
+
+* Paper [Guarini et al. 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230110256G/abstract), presented by Filip Alamaa.
 
 #### **December 13, 2022, 11h (Room 281 & Online)**
 
