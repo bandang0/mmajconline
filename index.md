@@ -58,6 +58,7 @@ Some of the speakers of our sessions include:
 * Ben Gompertz (Birmingham University)
 * Ore Gottlieb (Tel Aviv University)
 * Taya Govreen-Segal (Tel Aviv University)
+* Daniel Groselj (Columbia University)
 * Sébastien Guillot (IRAP)
 * Stefan Heimersheim (Cambridge University, UK)
 * Kumiko Kotera (IAP)
@@ -90,13 +91,17 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
+#### **December 13, 2022, 11h (Room 281 & Online)**
+
+* Presentation by Daniel Groselj (Columbia University), entitled _Microphysics of gamma-ray burst afterglows_.
+
 #### **December 6, 2022, 11h (Room 281 & Online)**
 
 * Presentation by Frank Rieger (MPIK - Heidelberg University), entitled [_Supermassive Black Holes as Cosmic Particle Accelerator_](docs/221206-rieger.pdf).
 
 #### **November 29, 2022, 11h (Room 281 & Online)**
 
-* Presentation by Simon Chiche (IAP), entitled [_Modelling the radio emission from very inclined air-showers: a new paradigm and new signatures_](docs/221129-chiche.pdf).
+* Presentation by Simon Chiche (IAP), entitled _Modelling the radio emission from very inclined air-showers: a new paradigm and new signatures_.
 
 #### **November 22, 2022, 11h (Room 281 & Online)**
 
