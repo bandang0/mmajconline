@@ -22,12 +22,15 @@ To receive information and announcements for future sessions, please subscribe t
 
 * Frédéric Daigne
 * Irina Dvorkin
-* Clément Pellouin
+* Léonard Lehoucq
 
 If you are willing to participate in our weekly journal-club sessions, do not hesitate to reach out to us.
 
 ## Upcoming Journal Club sessions
 
+#### **March 21, 2023, 14h (Room 281 & Online)**
+
+* Presentation by Yarno Merckx (Vrije Universiteit Brussel), entitled _From cosmic crashes to IceCube neutrinos_.
 
 
 
@@ -74,6 +77,7 @@ Some of the speakers of our sessions include:
 * Martin Lemoine (IAP)
 * Jim Madsen (University of Wisconsin)
 * Simone Mastrogiovanni (OCA, Nice)
+* Yarno Merckx (Vrije Universiteit Brussel)
 * Sandro Mereghetti (IASF-Milano)
 * Robert Mochkovitch (IAP)
 * Mike Moss (George Washington University)
@@ -94,9 +98,6 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
-#### **March 21, 2023, 14h (Room 281 & Online)**
-
-* Presentation by Yarno Merckx (Vrije Universiteit Brussel), entitled _From cosmic crashes to IceCube neutrinos_.
 
 #### **March 14, 2023, 14h (Salle du Conseil & Online)**
 
