@@ -100,7 +100,7 @@ Some of the speakers of our sessions include:
 
 #### **March 14, 2023, 14h (Salle du Conseil & Online)**
 
-* Presentation by Chi An Dong Paez (IAP), entitled [_Massive black hole mergers in the Obelisk simulation: properties and electromagnetic counterparts for LISA_](docs/221206-rieger.pdf).
+* Presentation by Chi An Dong Paez (IAP), entitled [_Massive black hole mergers in the Obelisk simulation: properties and electromagnetic counterparts for LISA_](docs/230314-dong-paez.pdf).
 
 #### **February 28, 2023, 14h (Salle du Conseil & Online)**
 
