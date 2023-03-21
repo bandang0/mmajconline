@@ -28,10 +28,6 @@ If you are willing to participate in our weekly journal-club sessions, do not he
 
 ## Upcoming Journal Club sessions
 
-#### **March 21, 2023, 14h (Room 281 & Online)**
-
-* Presentation by Yarno Merckx (Vrije Universiteit Brussel), entitled _From cosmic crashes to IceCube neutrinos_.
-
 
 
 ## Speakers
@@ -98,10 +94,13 @@ Some of the speakers of our sessions include:
 
 ## Past sessions
 
+#### **March 21, 2023, 14h (Room 281 & Online)**
+
+* Presentation by Yarno Merckx (Vrije Universiteit Brussel), entitled _From cosmic crashes to IceCube neutrinos_.
 
 #### **March 14, 2023, 14h (Salle du Conseil & Online)**
 
-* Presentation by Chi An Dong Paez (IAP), entitled _Massive black hole mergers in the Obelisk simulation: properties and electromagnetic counterparts for LISA_.
+* Presentation by Chi An Dong Paez (IAP), entitled [_Massive black hole mergers in the Obelisk simulation: properties and electromagnetic counterparts for LISA_](docs/221206-rieger.pdf).
 
 #### **February 28, 2023, 14h (Salle du Conseil & Online)**
 
